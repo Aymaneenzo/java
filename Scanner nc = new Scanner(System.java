@@ -7,6 +7,7 @@ Scanner nc = new Scanner(System.in);
 		for (int i=1; i>0 ; i++) {
 			if ((a % i == 0) && (b % i == 0)){
 				pgcd = i;
+				popo
 			}
 			
 		}
